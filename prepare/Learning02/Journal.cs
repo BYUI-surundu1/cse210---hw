@@ -12,7 +12,7 @@ public class Journal
     }
     public SaveToFile(string.file)
     {
-
+        
     }
     public LoadFromFile(string.file)
     {
