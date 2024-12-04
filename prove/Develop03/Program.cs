@@ -3,7 +3,7 @@ using System;
 class Program
 {
     static void Main(string[] args)
-    {
+    { 
         // This represents a word in the scripture set.
         public class word 
         {
